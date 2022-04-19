@@ -1,4 +1,4 @@
-console.log("Hello World");
+
 
 var c = canvas.getContext("2d");
 var tx = window.innerWidth;
