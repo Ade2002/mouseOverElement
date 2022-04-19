@@ -101,3 +101,7 @@ setInterval(function() {
   bal.push(new Ball());
   bal.splice(0, 1);
 }, 400);
+
+
+
+chmod u+x 9-print_comb.c && git add --chmod=+x 9-print_comb.c && git commit -m 'task 09' && git push
